@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/YIYOproy/static/css/main.3abce38d.css",
+    "main.js": "/YIYOproy/static/js/main.880c3bd2.js",
+    "static/js/415.fb51c11d.chunk.js": "/YIYOproy/static/js/415.fb51c11d.chunk.js",
+    "static/js/787.35dd0f9c.chunk.js": "/YIYOproy/static/js/787.35dd0f9c.chunk.js",
+    "static/media/Catalogo-juguetes-DiverDrak.pdf": "/YIYOproy/static/media/Catalogo-juguetes-DiverDrak.d96c91c4a88781cec68d.pdf",
+    "static/media/home-bg.jpg": "/YIYOproy/static/media/home-bg.e208c226939b58b47ce8.jpg",
+    "static/media/blog2.png": "/YIYOproy/static/media/blog2.05f55418aa492d44b1da.png",
+    "static/media/chatify3.png": "/YIYOproy/static/media/chatify3.9e193b80f81d0ffe6951.png",
+    "static/media/chatify2.png": "/YIYOproy/static/media/chatify2.69309deedf1bb29b5dde.png",
+    "static/media/chatify1.png": "/YIYOproy/static/media/chatify1.9aded5b881f784131fa2.png",
+    "static/media/about.png": "/YIYOproy/static/media/about.88c73dd866c6c24015a5.png",
+    "static/media/home-main.svg": "/YIYOproy/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/logo.png": "/YIYOproy/static/media/logo.882ee6cb1599b5eed2e1.png",
+    "static/media/avatar.svg": "/YIYOproy/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/YIYOproy/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/YIYOproy/index.html",
+    "main.3abce38d.css.map": "/YIYOproy/static/css/main.3abce38d.css.map",
+    "main.880c3bd2.js.map": "/YIYOproy/static/js/main.880c3bd2.js.map",
+    "415.fb51c11d.chunk.js.map": "/YIYOproy/static/js/415.fb51c11d.chunk.js.map",
+    "787.35dd0f9c.chunk.js.map": "/YIYOproy/static/js/787.35dd0f9c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3abce38d.css",
+    "static/js/main.880c3bd2.js"
+  ]
+}
